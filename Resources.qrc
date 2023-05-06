@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Icons"/>
+    <qresource prefix="/">
+        <file>../../Resources/NEX Searcher.ico</file>
+    </qresource>
+</RCC>
