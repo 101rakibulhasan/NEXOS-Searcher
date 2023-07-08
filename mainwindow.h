@@ -24,7 +24,6 @@ public:
 private slots:
     void onLineEditReturnPressed();
 
-
 private:
     Ui::MainWindow *ui;
 };

@@ -24,9 +24,7 @@ MainWindow::MainWindow(QWidget *parent)
 
     if (!success) {
         // Handle error
-        ui->search->setText("Fuck");
     }
-
 
     int screenwidth;
     int screenheight;
